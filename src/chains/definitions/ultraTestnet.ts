@@ -4,8 +4,8 @@ export const ultraTestnet = /*#__PURE__*/ defineChain({
   id: 18881,
   name: 'Ultra EVM Testnet',
   nativeCurrency: {
-    decimals: 8,
-    name: 'UOS',
+    decimals: 18,
+    name: 'Ultra Token',
     symbol: 'UOS',
   },
   rpcUrls: {
